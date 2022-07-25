@@ -3,25 +3,21 @@ Behavior trees for behavior of interested and uninterested infants during simula
 
 
 ## Interested Child Behavior Tree
-### Sees Both Robot and Toy
-<html>
-<div style="width:60px ; height:60px">
+#### Sees Both Robot and Toy
 ![Interested Sees Both Robot and Toy](Interested_Sees_Both.png?raw=true)
-</div>
-</html>
-### Sees Robot Only
+#### Sees Robot Only
 ![Interested Sees Robot Only](Interested_Sees_Robot_Only.png?raw=true)
-### Sees Toy Only
+#### Sees Toy Only
 ![Interested Sees Toy Only](Interested_Sees_Toy_Only.png?raw=true)
-### Sees Neither Robot or Toy
+#### Sees Neither Robot or Toy
 ![Sees Neither](Sees_Neither_Robot_or_Toy.png?raw=true)
 
 ## Uninterested Child Behavior Tree
-### Sees Both Robot and Toy
+#### Sees Both Robot and Toy
 ![Uninterested Sees Both Robot and Toy](Uninterested_Sees_Both.png?raw=true)
-### Sees Robot Only
+#### Sees Robot Only
 ![Uninterested Sees Robot Only](Uninterested_Sees_Robot_Only.png?raw=true)
-### Sees Toy Only
+#### Sees Toy Only
 ![Uninterested Sees Toy Only](Uninterested_Sees_Toy_Only.png?raw=true)
-### Sees Neither Robot or Toy
+#### Sees Neither Robot or Toy
 ![Sees Neither](Sees_Neither_Robot_or_Toy.png?raw=true)
