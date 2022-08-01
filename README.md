@@ -2,13 +2,13 @@
 Behavior trees of interested and uninterested infants for use during simulated child-robot interaction. 
 
 Behavior trees are displayed in parts for visual clarity. Each segment of the behavior tree is connected to the same root node above the visual field layer.
-```html
+
 | Color | Status
 | ----------- | ----------- |
 | Red | Failure |
 | Green | Success |
-| <span style="color:blue"> Blue </span>. | Running |
-```
+| - ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png?text=Blue) `#f03c15` | Running |
+
 
 ## Interested Child Behavior Tree
 #### Sees Both Robot and Toy(s)
