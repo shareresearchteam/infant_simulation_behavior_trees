@@ -7,7 +7,7 @@ Behavior trees are displayed in parts for visual clarity. Each segment of the be
 | ----------- | ----------- |
 | Red | Failure |
 | Green | Success |
-| Blue | Running |
+| <span style="color:blue"> Blue </span>. | Running |
 
 ## Interested Child Behavior Tree
 #### Sees Both Robot and Toy(s)
