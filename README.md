@@ -1,7 +1,7 @@
 # Infant Simulation Behavior Trees
 Behavior trees of interested and uninterested infants for use during simulated child-robot interaction. 
 
-Behavior trees are displayed in parts for visual clarity. Each segment of the behavior tree is connected to the same root node above the visual field layer.
+Behavior trees are displayed in parts for visual clarity. Each segment of the behavior tree is shown based on what items the child can see in their visual (e.g., robot and toys). All segments are connected to the same root node above the visual field layer.
 
 | Color | Status
 | ----------- | ----------- |
